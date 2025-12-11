@@ -1,16 +1,16 @@
 {
   "server": {
-    "port": 3000
+    "port": 5000
   },
   "database": {
     "host": "postgres", 
     "port": 5432,
-    "name": "user_db",
+    "name": "talent",
     "user": "postgres",
-    "password": "password"
+    "password": "password" 
   },
   "eureka": {
     "host": "registry-service",
     "port": 8761
-  }
+  },
 }
