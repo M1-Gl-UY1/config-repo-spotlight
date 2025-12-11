@@ -7,7 +7,7 @@
     "port": 5432,
     "name": "user_db",
     "user": "postgres",
-    "password": "postgres"
+    "password": "password"
   },
   "eureka": {
     "host": "registry-service",
